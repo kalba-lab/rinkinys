@@ -1,0 +1,48 @@
+# Source code - not public
+src/
+tests/
+resources/
+assets/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.pyc
+__pycache__/
+*.egg-info/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+*.dmg
+
+# Database
+*.db
+*.sqlite
+
+# Temporary
+*.tmp
+*.log
+
+# Plus
+pyproject.toml
+requirements.txt
+setup.py
+BUGS-COLLECT.txt
+Rinkinys.app/
+Rinkinys.app
+
+# Keep these files
+!README.md
+!LICENSE
+!Screenshot*.png
+!index.html
+!.gitignore
