@@ -1,6 +1,6 @@
 # Rinkinys
 
-**Rich annotations for file groups - a semantic layer over the file system.** Projects's page: **[rinkinys.app](https://rinkinys.app/)** 
+**Rich annotations for file groups - a semantic layer over the file system.** Projects's page: [rinkinys.app](https://rinkinys.app/)
 
 Rinkinys (Lithuanian: "collection, set") is a desktop application that lets you organize files into sets with rich stickers (annotations), without moving the files from their original locations.
 
@@ -115,4 +115,4 @@ Proprietary — © 2025 Kalba Lab
 
 ---
 
-**[Kalba Lab](https://kalba.dev)** — Where language meets logic
+[Kalba Lab](https://kalba.dev)
