@@ -10,15 +10,15 @@ Rinkinys (Lithuanian: "collection, set") is a desktop application that lets you 
 
 ## Philosophy
 
-We think in **entities**, not files. A project, a letter, a case — these are things we work with. But the file system gives us no way to annotate them, to add context that stays with the thing.
+We think in **entities**, not files. A project, a letter, a case - these are things we work with. But the file system gives us no way to annotate them, to add context that stays with the thing.
 
-Rinkinys lets you create **sets** — virtual containers for files — and **stick notes on them**. A set can contain one file or many. The files stay where they are. The stickers stay with the set.
+Rinkinys lets you create **sets** - virtual containers for files - and **stick notes on them**. A set can contain one file or many. The files stay where they are. The stickers stay with the set.
 
-**Example:** You send an important email. Create a set, drag the email in. Stick a note: "Waiting for response". Days later, add another sticker: "They agreed, see attachment". Drag the attachment into the same set. Now you have a complete picture — not scattered across folders, but in one annotated entity.
+**Example:** You send an important email. Create a set, drag the email in. Stick a note: "Waiting for response". Days later, add another sticker: "They agreed, see attachment". Drag the attachment into the same set. Now you have a complete picture - not scattered across folders, but in one annotated entity.
 
 - **Set** = a named group of files (like a labeled box)
 - **Sticker** = annotation on the set (text, voice memo)
-- **Files stay in place** — we track them by unique identifiers, not paths
+- **Files stay in place** - we track them by unique identifiers, not paths
 
 ```
 ┌─────────────────────────────────────────┐
@@ -90,7 +90,7 @@ Requirements:
 
 ![Rinkinys Desktop Shortcut](Screenshot3.png)
 
-Drag a set from sidebar to Desktop — it becomes a `.rinkinys` file with custom icon. Double-click to open.
+Drag a set from sidebar to Desktop - it becomes a `.rinkinys` file with custom icon. Double-click to open.
 
 ## Tech Stack
 
@@ -111,7 +111,7 @@ A: Yes! That's the whole point.
 
 ## License
 
-Proprietary — © 2025 Kalba Lab
+Proprietary - © 2025 Kalba Lab
 
 ---
 
